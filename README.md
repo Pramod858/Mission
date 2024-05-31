@@ -1,5 +1,5 @@
 # Spy App
-##  Document to set Kubernetes(EKS) in aws [click here.](https://github.com/Pramod858/Mission)
+##  Document to set Kubernetes(EKS) in aws [click here.](https://github.com/Pramod858/K8S)
 
 **Java-based Full-Stack Web Application.** Users can view or create missions for each agents. They can also edit/ delete missions.
 
