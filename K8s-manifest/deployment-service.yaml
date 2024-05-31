@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mission
-          image: pramod858/mission:v12
+          image: pramod858/mission:v13
           imagePullPolicy: Always
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
